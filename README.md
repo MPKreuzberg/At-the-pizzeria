@@ -1,7 +1,7 @@
 # At-the-pizzeria
 
 Create a Pizza class accepting 1 param ( pizzaId ) \
-The class contains the following array:
+The class contains the following array with products:
 ​
 ```
 priceObj = [
